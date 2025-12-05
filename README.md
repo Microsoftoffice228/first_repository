@@ -1,4 +1,4 @@
-![Logo](https://schoolnavigator.com.ua/uk/schools/robocode)
+![Logo](https://schoolnavigator.com.ua/uploads/webp_asset/image/5304/20240608-821971-3fader.webp)
 
 
 # Project Title
